@@ -13,6 +13,5 @@ end
 
 def using_pop (continents)
   binding.pry
-  continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
   continents.pop
 end
